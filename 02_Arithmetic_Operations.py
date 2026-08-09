@@ -1,3 +1,5 @@
+#Write a program that takes two numbers and prints the result of +, -, *, /, //, %, and ** on them.
+
 print("Enter two numbers to perform arithmetic operations:", end = " ")
 a, b = map(int, input().split())
 print("Arithmetic operations performed on the given numbers are as follows:")

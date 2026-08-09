@@ -1,3 +1,5 @@
+#Convert a temperature from Celsius to Fahrenheit and vice versa.
+
 print("Enter temperature:", end = " ")
 temp = int(input())
 print("Enter Scale of Temperature Celsius(C) or Farenheit(F):", end = " ")
